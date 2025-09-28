@@ -7,7 +7,8 @@ It is structured in two main areas:
 
 ---
 
-## 📊 Data Science Projects
+## 📊 [Data Science Projects](https://github.com/pierinamv/data-science-projects)
+
 Projects focused on data analysis, prediction, and visualization.
 
 - 
