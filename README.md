@@ -10,8 +10,7 @@ https://github.com/pierinamv/data-science-projects
 ---
 
 ## Profile
-
-Physicist specialized in mathematical modeling and data-driven analysis of complex systems, with a strong focus on applied data science and computational methods.
+Physicist working on data-driven modeling and analysis of complex systems using computational methods. 
 
 ---
 
