@@ -1,37 +1,20 @@
-# Pierina Milla - Portfolio
+# Pierina Milla — Portfolio
 
-**B.Sc. in Physics | Aspiring Data Scientist | Exploring Computational Mathematics**
+This repository contains my professional profile and curriculum vitae.
 
-Welcome! This repository gathers selected projects that showcase my skills in **data science**, **computational physics**, and **applied mathematics**.  
-It is structured in two main areas:
+My technical work and projects are available here:
 
----
-
-## 📊 [Data Science Projects](https://github.com/pierinamv/data-science-projects)
-
-Projects focused on data analysis, prediction, and visualization.
-
-- 
--  
-- 
+👉 **Data Science & Modeling Projects**  
+https://github.com/pierinamv/data-science-projects
 
 ---
 
-## 🔬 Computational Mathematics Projects
-Projects related to numerical methods, dynamical systems, and scientific computing.
+## Profile
 
--  
-- 
-- 
+Physicist specialized in mathematical modeling and data-driven analysis of complex systems, with a strong focus on applied data science and computational methods.
 
 ---
 
-## 🛠️ Tools & Skills
-- **Languages:** Python, R
-- **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-- **Scientific Computing:** Differential equations, numerical methods, simulation  
-- **Other:** SQL, Git, LaTeX
-
----
-
-📫 Contact: [LinkedIn](https://www.linkedin.com/in/pierinamilla) | millav.pm@pucp.edu.pe
+📫 Contact  
+LinkedIn: https://www.linkedin.com/in/pierinamilla  
+Email: millav.pm@pucp.edu.pe
